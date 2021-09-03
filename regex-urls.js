@@ -15,6 +15,12 @@ urls.forEach(pathImagem => {
 });
 
 
+
+
+
+
+
+
 // retorna
 // https://imagens-revista.vivadecora.com.br/uploads/2020/06/bolino-de-chuva-quality-refeições.jpg = inválido
 // https://imagens-revista.vivadecora.com.br/uploads/2021/08/Ideias-de-cores-para-sala-de-estar-pequena-decorada-com-tapete-listrado-e-almofadas-coloridas-Foto-Home-Interior-Ideas.jpg = válido
